@@ -1,3 +1,9 @@
+body{
+	background: url("https://images.unsplash.com/photo-1486338672670-95f7ffcf2a98?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=751&q=80") repeat;
+}
+img{
+	max-width: 100%;
+}
 .menu{
 	color: white;
 	text-align: center;
