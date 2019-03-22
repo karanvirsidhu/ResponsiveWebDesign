@@ -1,9 +1,10 @@
-body{
-	background-color:#2222222;
+.menu{
+	color: white;
+	text-align: center;
 }
-#wrapper{
-background-color: white;
-width:90%;
-margin: 0.4em auto;
-border: 0.4em solid red;
+.button{
+	background: black;
+	width:24%;
+	margin: 0 .5%;
+	float: left;
 }
